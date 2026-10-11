@@ -43,7 +43,9 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
-.dockerignore
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 
 # MSBuild Binary and Structured Log
 *.binlog
@@ -55,4 +57,8 @@ CodeCoverage/
 # NUnit
 *.VisualState.xml
 TestResult.xml
+<<<<<<< HEAD
 nunit-*.xml
+=======
+nunit-*.xml
+>>>>>>> origin/main

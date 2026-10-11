@@ -1,0 +1,28 @@
+# Git
+.git/
+.gitignore
+
+# IDEs
+.idea/
+.vscode/
+.vs/
+
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+**/out/
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+
+# Logs
+**/*.log
+
+# Documentação e arquivos locais
+README.md
+.DS_Store
+Thumbs.db
